@@ -25,7 +25,7 @@
 "HIVE":"하이브",
 "SPY":"첩보활동",
 "FREE ROAM":"자유 탐험",
-"MOBILE DEFENSE":"모바일 방어",
+"MOBILE DEFENSE":"이동 방어",
 "CONCLAVE":"콘클레이브",
 "RESCUE":"구출",
 "HIJACK":"탈취",
@@ -60,7 +60,7 @@
 "CYTHEREAN":"Cytherean",
 "ORO":"Oro",
 "CALLISTO":"Callisto",
-"LITH":"Lith",
+"LITH":"리스",
 "E PRIME":"E Prime",
 "TERMINUS":"Terminus",
 "OBERON (URANUS)":"Oberon (천왕성)",
@@ -11476,4 +11476,10 @@
 "bosses":"보스",
 "Main":"메인",
 "Gameplay":"게임 플레이",
-"Patch History":"패치 기록"}
+"Patch History":"패치 기록",
+"“It's taking longer than I calculated.”":"“제가 생각했던 것보다 더 오래 걸리네요.”"
+"This page is actively being worked on and may not be completely correct. Please assist in making this page accurate.":"이 페이지는 현재 작업 중이며 완전히 정확하지는 않을 수 있습니다. 이 페이지를 정확하게 작성할 수 있도록 도와주십시오.",
+"Parvos Granum":"파보스 그라넘",
+"HELMINTH":"헬민스",
+"Lich System":"리치 시스템"
+}
